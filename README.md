@@ -46,7 +46,7 @@ Implement FizzBuzz "with nothing". Buw how do we represent numbers, booleans, et
 * Booleans: True, False, If-Then-Else, a loop; predicates to compare two numbers <=, equality to zero
 * Characters (are numbers using ASCII)
 * Strings (needs List needs Pair)
-* Print strings (use <i>Console.log<i>)
+* Print strings (use <i>Console.log</i>)
 * Convert numbers to string
 
 ## License
